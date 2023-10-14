@@ -6,4 +6,4 @@ your local IP Address, and the tty session, as well as enable ssh and ssh-keys f
 using screen and detatching, this was to reduce what was needed to install for this to work. The alternative is installing screen on the server device
 and moving screen into the requests.
 
-You will need to install screen on the client (Raspberry Pi) for this to work.
+You will need to install screen and possibly the tkinter python library on the client (Raspberry Pi) for this to work.
